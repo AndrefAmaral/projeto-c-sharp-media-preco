@@ -1,0 +1,13 @@
+C:\dev\Media_Preco\obj\Debug\netcoreapp3.1\Media_Preco.csprojAssemblyReference.cache
+C:\dev\Media_Preco\obj\Debug\netcoreapp3.1\Media_Preco.AssemblyInfoInputs.cache
+C:\dev\Media_Preco\obj\Debug\netcoreapp3.1\Media_Preco.AssemblyInfo.cs
+C:\dev\Media_Preco\obj\Debug\netcoreapp3.1\Media_Preco.csproj.CoreCompileInputs.cache
+C:\dev\Media_Preco\bin\Debug\netcoreapp3.1\Media_Preco.exe
+C:\dev\Media_Preco\bin\Debug\netcoreapp3.1\Media_Preco.deps.json
+C:\dev\Media_Preco\bin\Debug\netcoreapp3.1\Media_Preco.runtimeconfig.json
+C:\dev\Media_Preco\bin\Debug\netcoreapp3.1\Media_Preco.runtimeconfig.dev.json
+C:\dev\Media_Preco\bin\Debug\netcoreapp3.1\Media_Preco.dll
+C:\dev\Media_Preco\bin\Debug\netcoreapp3.1\Media_Preco.pdb
+C:\dev\Media_Preco\obj\Debug\netcoreapp3.1\Media_Preco.dll
+C:\dev\Media_Preco\obj\Debug\netcoreapp3.1\Media_Preco.pdb
+C:\dev\Media_Preco\obj\Debug\netcoreapp3.1\Media_Preco.genruntimeconfig.cache
